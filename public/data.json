@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "Picture": "https://i.ibb.co/1JqJ6Rz/Education.jpg",
+      "Title": "Educational Supplies",
+      "Category": "Education",
+      "Category_bg": "#ff444a33",
+      "Card_bg": "#ff444a26",
+      "Text_button_bg": "#FF444A",
+      "Description": "Donate to provide school supplies to underprivileged children. Your contribution supports the purchase of essential school supplies, including textbooks, notebooks, pencils, and educational materials. These supplies are distributed to schools in disadvantaged communities, ensuring that every child has access to the tools they need to succeed in their studies. Education is the key to breaking the cycle of poverty, and your generous donation can make a significant impact in empowering young minds. Join us in making quality education accessible to all. Your donation of $20 will make a meaningful difference.",
+      "Price": "$20"
+    },
+    {
+      "id": 10,
+      "Picture": "https://i.ibb.co/183mfFj/Food.jpg",
+      "Title": "Community Kitchen",
+      "Category": "Food",
+      "Category_bg": "#f8714733",
+      "Card_bg": "#f8714726",
+      "Text_button_bg": "#F87147",
+      "Description": "Contribute to a community kitchen feeding the hungry. Hunger is a harsh reality for many in our community, and your $12 donation can make a significant impact in providing nutritious meals to those who need them. Our community kitchen is a beacon of hope, serving hot meals to individuals facing food insecurity. Your support not only satisfies hunger but also restores dignity to those facing difficult times. Join us in making a positive change in our community by ensuring that no one goes to bed hungry. Together, we can create a community where everyone has access to nutritious food.",
+      "Price": "$12"
+    },
+    {
+      "id": 3,
+      "Picture": "https://i.ibb.co/Gc7qNwQ/Clothing.jpg",
+      "Title": "Warm Winter Clothes",
+      "Category": "Clothing",
+      "Category_bg": "#79c23f33",
+      "Card_bg": "#79c23f26",
+      "Text_button_bg": "#79C23F",
+      "Description": "Help keep people warm by donating winter clothing items. Winter can be harsh, especially for those without warm clothing. Your $25 contribution can provide coats, sweaters, gloves, and other winter essentials to individuals in need. By keeping people warm, we ensure their safety and well-being during the cold months. Join us in spreading warmth, comfort, and care to those who are less fortunate, and together, we can make winter a bit brighter for everyone.",
+      "Price": "$25"
+    },
+    {
+      "id": 4,
+      "Picture": "https://i.ibb.co/sQBTdnX/Health.jpg",
+      "Title": "Medical Supplies",
+      "Category": "Health",
+      "Category_bg": "#0052ff33",
+      "Card_bg": "#0052ff26",
+      "Text_button_bg": "#0052FF",
+      "Description": "Contribute to the availability of essential medical supplies for communities. Access to essential medical supplies is crucial for the health and well-being of our communities. Your $30 donation can help save lives by ensuring that healthcare providers have the tools they need to deliver quality care. Join us in making a difference in public health and ensuring that everyone has access to the healthcare resources they require. Your support can make a significant impact on the lives of individuals and families in need.",
+      "Price": "$30"
+    },
+    {
+      "id": 6,
+      "Picture": "https://i.ibb.co/183mfFj/Food.jpg",
+      "Title": "Food for Children",
+      "Category": "Food",
+      "Category_bg": "#f8714733",
+      "Card_bg": "#f8714726",
+      "Text_button_bg": "#F87147",
+      "Description": "Childhood hunger is a pressing issue that affects many families in our community. You can make a difference by donating to our Food for Children program. Your $10 contribution can provide nutritious meals to hungry kids, ensuring they have the sustenance they need to grow, learn, and thrive. We partner with schools and local organizations to reach children in need. Your support not only fills empty stomachs but also gives children hope for a brighter future. Together, we can eliminate hunger among our youngest community members and give them the chance they deserve.",
+      "Price": "$10"
+    },
+    {
+      "id": 7,
+      "Picture": "https://i.ibb.co/Gc7qNwQ/Clothing.jpg",
+      "Title": "Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg": "#79c23f33",
+      "Card_bg": "#79c23f26",
+      "Text_button_bg": "#79C23F",
+      "Description": "Clean out your closets and contribute to our Clothing Drive initiative. Your gently used clothing donations help clothe those in need, providing warmth and dignity to individuals experiencing difficult circumstances. Your $5 donation can make a meaningful difference in someone's life. Donated clothes find new homes with those who may not have access to suitable attire. Join us in giving the gift of clothing and making a positive impact on the lives of those less fortunate. Your support spreads warmth, comfort, and confidence to individuals in our community.",
+      "Price": "$5"
+    },
+    {
+      "id": 8,
+      "Picture": "https://i.ibb.co/sQBTdnX/Health.jpg",
+      "Title": "Vaccination Support",
+      "Category": "Health",
+      "Category_bg": "#0052ff33",
+      "Card_bg": "#0052ff26",
+      "Text_button_bg": "#0052FF",
+      "Description": "Vaccination is a critical tool in promoting public health and preventing the spread of disease. Your contribution to Vaccination Support helps fund vaccination efforts in our community. By donating $40, you play a vital role in ensuring that vaccines are accessible to everyone, especially those who may face barriers to healthcare access. Your support protects vulnerable individuals and contributes to the overall well-being of our community. Join us in the fight against preventable diseases and in promoting a healthier future for all. Your donation makes a significant impact in safeguarding public health.",
+      "Price": "$40"
+    },
+    {
+      "id": 9,
+      "Picture": "https://i.ibb.co/1JqJ6Rz/Education.jpg",
+      "Title": "Digital Learning Tools",
+      "Category": "Education",
+      "Category_bg": "#ff444a33",
+      "Card_bg": "#ff444a26",
+      "Text_button_bg": "#FF444A",
+      "Description": "In the digital age, access to technology is crucial for quality education. Your donation to the Digital Learning Tools initiative supports the provision of laptops, tablets, and digital resources to students in need. By contributing $35, you empower students with the latest learning tools, ensuring they have the resources to excel in their studies. Join us in supporting online education and bridging the digital divide. Your support not only transforms the lives of students but also strengthens our community's educational infrastructure.",
+      "Price": "$35"
+    },
+    {
+      "id": 11,
+      "Picture": "https://i.ibb.co/Gc7qNwQ/Clothing.jpg",
+      "Title": "Back-to-School Clothes",
+      "Category": "Clothing",
+      "Category_bg": "#79c23f33",
+      "Card_bg": "#79c23f26",
+      "Text_button_bg": "#79C23F",
+      "Description": "Help kids get ready for school with new clothes. Going back to school is an exciting time, but it can be challenging for families struggling to afford school clothes. Your $18 donation can provide new school attire to children in need, boosting their confidence and readiness for learning. By ensuring that kids have the clothing they need, you contribute to their success in the classroom and beyond. Join us in supporting young students and giving them a positive start to the school year. Your donation makes a difference in the lives of children in our community.",
+      "Price": "$18"
+    },
+    {
+      "id": 12,
+      "Picture": "https://i.ibb.co/sQBTdnX/Health.jpg",
+      "Title": "Mental Health Support",
+      "Category": "Health",
+      "Category_bg": "#0052ff33",
+      "Card_bg": "#0052ff26",
+      "Text_button_bg": "#0052FF",
+      "Description": "Donate to mental health initiatives and support those in need. Mental health is a crucial aspect of overall well-being, and your $55 donation can make a significant impact in promoting mental wellness in our community. Your support helps fund programs and services that provide counseling, therapy, and support to individuals facing mental health challenges. By contributing, you reduce stigma and create a more compassionate and understanding community. Join us in making mental health a priority and providing hope to those in need. Your donation supports individuals on their journey to recovery and healing.",
+      "Price": "$55"
+    },
+    {
+      "id": 5,
+      "Picture": "https://i.ibb.co/1JqJ6Rz/Education.jpg",
+      "Title": "Scholarship Fund",
+      "Category": "Education",
+      "Category_bg": "#ff444a33",
+      "Card_bg": "#ff444a26",
+      "Text_button_bg": "#FF444A",
+      "Description": "Support deserving students by contributing to their education. Many talented and deserving individuals lack the financial means to pursue higher education. Your $50 donation can provide scholarships to help these students achieve their academic goals. By investing in education, you empower individuals to reach their full potential and contribute positively to society. Your support not only changes lives but also builds a brighter future for our community. Join us in creating opportunities for young scholars to excel and make a lasting impact on their communities.",
+      "Price": "$50"
+    },
+    {
+      "id": 2,
+      "Picture": "https://i.ibb.co/183mfFj/Food.jpg",
+      "Title": "Emergency Food Relief",
+      "Category": "Food",
+      "Category_bg": "#f8714733",
+      "Card_bg": "#f8714726",
+      "Text_button_bg": "#F87147",
+      "Description": "Support our mission to provide meals to families in need. Many families face food insecurity, and your $15 donation can make a significant difference. We work tirelessly to distribute nutritious meals to those who are struggling, ensuring that no one goes to bed hungry. Your support not only fills empty stomachs but also brings hope and relief to individuals and families facing challenging times. Together, we can make a positive impact on our community by addressing one of its most pressing issues.",
+      "Price": "$15"
+    }
+  ]
+  

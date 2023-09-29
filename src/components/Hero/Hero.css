@@ -1,0 +1,6 @@
+.Backround_img{
+    background-image:linear-gradient(rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0.1)), url('https://i.ibb.co/pbZJc9R/Rectangle-4284.png')
+}
+.round-r{
+    border-radius: 0px,0px,0px,0px;
+}
